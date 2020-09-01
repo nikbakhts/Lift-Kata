@@ -1,0 +1,14 @@
+C:\Projects\Coding_Dojo\Lif-Kata-w\Lift-Kata-master\csharp\Lift\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Projects\Coding_Dojo\Lif-Kata-w\Lift-Kata-master\csharp\Lift\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Projects\Coding_Dojo\Lif-Kata-w\Lift-Kata-master\csharp\Lift\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Projects\Coding_Dojo\Lif-Kata-w\Lift-Kata-master\csharp\Lift\bin\Debug\netcoreapp2.1\Lift.deps.json
+C:\Projects\Coding_Dojo\Lif-Kata-w\Lift-Kata-master\csharp\Lift\bin\Debug\netcoreapp2.1\Lift.runtimeconfig.json
+C:\Projects\Coding_Dojo\Lif-Kata-w\Lift-Kata-master\csharp\Lift\bin\Debug\netcoreapp2.1\Lift.runtimeconfig.dev.json
+C:\Projects\Coding_Dojo\Lif-Kata-w\Lift-Kata-master\csharp\Lift\bin\Debug\netcoreapp2.1\Lift.dll
+C:\Projects\Coding_Dojo\Lif-Kata-w\Lift-Kata-master\csharp\Lift\bin\Debug\netcoreapp2.1\Lift.pdb
+C:\Projects\Coding_Dojo\Lif-Kata-w\Lift-Kata-master\csharp\Lift\obj\Debug\netcoreapp2.1\Lift.csprojAssemblyReference.cache
+C:\Projects\Coding_Dojo\Lif-Kata-w\Lift-Kata-master\csharp\Lift\obj\Debug\netcoreapp2.1\Lift.csproj.CoreCompileInputs.cache
+C:\Projects\Coding_Dojo\Lif-Kata-w\Lift-Kata-master\csharp\Lift\obj\Debug\netcoreapp2.1\Lift.AssemblyInfoInputs.cache
+C:\Projects\Coding_Dojo\Lif-Kata-w\Lift-Kata-master\csharp\Lift\obj\Debug\netcoreapp2.1\Lift.AssemblyInfo.cs
+C:\Projects\Coding_Dojo\Lif-Kata-w\Lift-Kata-master\csharp\Lift\obj\Debug\netcoreapp2.1\Lift.dll
+C:\Projects\Coding_Dojo\Lif-Kata-w\Lift-Kata-master\csharp\Lift\obj\Debug\netcoreapp2.1\Lift.pdb
